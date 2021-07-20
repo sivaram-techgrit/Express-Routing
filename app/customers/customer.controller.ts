@@ -20,7 +20,7 @@ const sendMail = () => {
         service: 'gmail',
         auth: {
             user: 'sivaram.movva@gmail.com',
-            pass: 'tpokjrptvcnpxmsh'
+            pass: 'xxxxxxxxx'
         }
     });
 
